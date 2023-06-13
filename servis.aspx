@@ -1,1 +1,1 @@
-Response.Write("Servisi")
+OK
