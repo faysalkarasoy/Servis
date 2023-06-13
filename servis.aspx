@@ -1,1 +1,1 @@
-Response.Write("Servis")
+Response.Write("Servisi")
